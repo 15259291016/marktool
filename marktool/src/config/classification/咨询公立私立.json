@@ -1,0 +1,19 @@
+{
+    "label_categories": [
+        {
+            "text": "咨询公立私立",
+            "describe": "",
+            "example": ""
+        },
+        {
+            "text": "其他",
+            "describe": "",
+            "example": ""
+        },
+        {
+            "text": "无",
+            "describe": "",
+            "example": ""
+        }
+    ]
+}

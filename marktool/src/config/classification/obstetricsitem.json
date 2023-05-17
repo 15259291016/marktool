@@ -1,0 +1,302 @@
+[
+    {
+        "value": "乳腺",
+        "label": "乳腺",
+        "children": [
+            {
+                "value": "乳腺疾病",
+                "label": "乳腺疾病"
+            },
+            {
+                "value": "乳腺炎",
+                "label": "乳腺炎"
+            },
+            {
+                "value": "哺乳期乳腺炎",
+                "label": "哺乳期乳腺炎"
+            }
+        ]
+    },
+    {
+        "value": "其他",
+        "label": "其他",
+        "children": [
+            {
+                "value": "艾滋病",
+                "label": "艾滋病"
+            },
+            {
+                "value": "性病",
+                "label": "性病"
+            },
+            {
+                "value": "无项目",
+                "label": "无项目"
+            }
+        ]
+    },
+    {
+        "value": "卵巢",
+        "label": "卵巢",
+        "children": [
+            {
+                "value": "卵巢功能异常",
+                "label": "卵巢功能异常"
+            },
+            {
+                "value": "卵巢肿瘤",
+                "label": "卵巢肿瘤"
+            },
+            {
+                "value": "多囊卵巢",
+                "label": "多囊卵巢"
+            },
+            {
+                "value": "卵巢囊肿",
+                "label": "卵巢囊肿"
+            }
+        ]
+    },
+    {
+        "value": "大类",
+        "label": "大类",
+        "children": [
+            {
+                "value": "妇科疾病",
+                "label": "妇科疾病"
+            },
+            {
+                "value": "妇科炎症",
+                "label": "妇科炎症"
+            },
+            {
+                "value": "妇科囊肿",
+                "label": "妇科囊肿"
+            },
+            {
+                "value": "月经不调",
+                "label": "月经不调"
+            },
+            {
+                "value": "内分泌失调",
+                "label": "内分泌失调"
+            },
+            {
+                "value": "宫腔粘连",
+                "label": "宫腔粘连"
+            },
+            {
+                "value": "附件炎",
+                "label": "附件炎"
+            },
+            {
+                "value": "泌尿系统感染",
+                "label": "泌尿系统感染"
+            },
+            {
+                "value": "腰腹胀痛",
+                "label": "腰腹胀痛"
+            }
+        ]
+    },
+    {
+        "value": "子宫",
+        "label": "子宫",
+        "children": [
+            {
+                "value": "子宫异常",
+                "label": "子宫异常"
+            },
+            {
+                "value": "子宫内膜疾病",
+                "label": "子宫内膜疾病"
+            },
+            {
+                "value": "子宫肌瘤",
+                "label": "子宫肌瘤"
+            }
+        ]
+    },
+    {
+        "value": "宫颈",
+        "label": "宫颈",
+        "children": [
+            {
+                "value": "宫颈疾病",
+                "label": "宫颈疾病"
+            },
+            {
+                "value": "宫颈糜烂",
+                "label": "宫颈糜烂"
+            },
+            {
+                "value": "宫颈炎",
+                "label": "宫颈炎"
+            },
+            {
+                "value": "宫颈肥大",
+                "label": "宫颈肥大"
+            }
+        ]
+    },
+    {
+        "value": "怀孕相关",
+        "label": "怀孕相关",
+        "children": [
+            {
+                "value": "不孕",
+                "label": "不孕"
+            },
+            {
+                "value": "宫外孕",
+                "label": "宫外孕"
+            },
+            {
+                "value": "流产",
+                "label": "流产"
+            },
+            {
+                "value": "无痛人流",
+                "label": "无痛人流"
+            },
+            {
+                "value": "药流",
+                "label": "药流"
+            },
+            {
+                "value": "自然分娩",
+                "label": "自然分娩"
+            },
+            {
+                "value": "剖腹产",
+                "label": "剖腹产"
+            },
+            {
+                "value": "早孕",
+                "label": "早孕"
+            },
+            {
+                "value": "保胎",
+                "label": "保胎"
+            },
+            {
+                "value": "妊娠反应",
+                "label": "妊娠反应"
+            },
+            {
+                "value": "备孕",
+                "label": "备孕"
+            }
+        ]
+    },
+    {
+        "value": "手术治疗",
+        "label": "手术治疗",
+        "children": [
+            {
+                "value": "产后修复",
+                "label": "产后修复"
+            },
+            {
+                "value": "盆底修复",
+                "label": "盆底修复"
+            },
+            {
+                "value": "处女膜修复",
+                "label": "处女膜修复"
+            },
+            {
+                "value": "上环取环",
+                "label": "上环取环"
+            }
+        ]
+    },
+    {
+        "value": "检查相关",
+        "label": "检查相关",
+        "children": [
+            {
+                "value": "妇科检查",
+                "label": "妇科检查"
+            },
+            {
+                "value": "婚检",
+                "label": "婚检"
+            },
+            {
+                "value": "孕前检查",
+                "label": "孕前检查"
+            },
+            {
+                "value": "孕期产检",
+                "label": "孕期产检"
+            },
+            {
+                "value": "胎心监护",
+                "label": "胎心监护"
+            },
+            {
+                "value": "四维彩超",
+                "label": "四维彩超"
+            },
+            {
+                "value": "唐氏筛查",
+                "label": "唐氏筛查"
+            },
+            {
+                "value": "NT检查",
+                "label": "NT检查"
+            },
+            {
+                "value": "无创DNA",
+                "label": "无创DNA"
+            }
+        ]
+    },
+    {
+        "value": "盆腔",
+        "label": "盆腔",
+        "children": [
+            {
+                "value": "盆腔疾病",
+                "label": "盆腔疾病"
+            },
+            {
+                "value": "盆腔炎",
+                "label": "盆腔炎"
+            }
+        ]
+    },
+    {
+        "value": "输卵管",
+        "label": "输卵管",
+        "children": [
+            {
+                "value": "输卵管异常",
+                "label": "输卵管异常"
+            },
+            {
+                "value": "输卵管堵塞",
+                "label": "输卵管堵塞"
+            }
+        ]
+    },
+    {
+        "value": "阴部",
+        "label": "阴部",
+        "children": [
+            {
+                "value": "阴道炎",
+                "label": "阴道炎"
+            },
+            {
+                "value": "白带异常",
+                "label": "白带异常"
+            },
+            {
+                "value": "外阴白斑",
+                "label": "外阴白斑"
+            }
+        ]
+    }
+]

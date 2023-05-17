@@ -1,0 +1,264 @@
+[
+    {
+        "value": 1.0,
+        "label": 1.0,
+        "children": [
+            {
+                "value": "近视手术",
+                "label": "近视手术"
+            },
+            {
+                "value": "换眼角膜",
+                "label": "换眼角膜"
+            },
+            {
+                "value": "义眼",
+                "label": "义眼"
+            },
+            {
+                "value": "眼部检查",
+                "label": "眼部检查"
+            }
+        ]
+    },
+    {
+        "value": 2.0,
+        "label": 2.0,
+        "children": [
+            {
+                "value": "近视",
+                "label": "近视"
+            },
+            {
+                "value": "远视",
+                "label": "远视"
+            },
+            {
+                "value": "散光",
+                "label": "散光"
+            },
+            {
+                "value": "弱视",
+                "label": "弱视"
+            },
+            {
+                "value": "斜视",
+                "label": "斜视"
+            },
+            {
+                "value": "斗鸡眼",
+                "label": "斗鸡眼"
+            },
+            {
+                "value": "夜盲症",
+                "label": "夜盲症"
+            }
+        ]
+    },
+    {
+        "value": 3.0,
+        "label": 3.0,
+        "children": [
+            {
+                "value": "白内障",
+                "label": "白内障"
+            },
+            {
+                "value": "角膜炎",
+                "label": "角膜炎"
+            },
+            {
+                "value": "结膜炎",
+                "label": "结膜炎"
+            },
+            {
+                "value": "葡萄膜炎",
+                "label": "葡萄膜炎"
+            },
+            {
+                "value": "虹膜炎",
+                "label": "虹膜炎"
+            },
+            {
+                "value": "泪囊炎",
+                "label": "泪囊炎"
+            },
+            {
+                "value": "泪道堵塞",
+                "label": "泪道堵塞"
+            }
+        ]
+    },
+    {
+        "value": 4.0,
+        "label": 4.0,
+        "children": [
+            {
+                "value": "麦粒肿",
+                "label": "麦粒肿"
+            },
+            {
+                "value": "霰粒肿",
+                "label": "霰粒肿"
+            },
+            {
+                "value": "干眼症",
+                "label": "干眼症"
+            },
+            {
+                "value": "青光眼",
+                "label": "青光眼"
+            },
+            {
+                "value": "飞蚊症",
+                "label": "飞蚊症"
+            },
+            {
+                "value": "老花眼",
+                "label": "老花眼"
+            },
+            {
+                "value": "色盲",
+                "label": "色盲"
+            },
+            {
+                "value": "色弱",
+                "label": "色弱"
+            },
+            {
+                "value": "屈光不正",
+                "label": "屈光不正"
+            },
+            {
+                "value": "视网膜脱落",
+                "label": "视网膜脱落"
+            },
+            {
+                "value": "倒睫",
+                "label": "倒睫"
+            },
+            {
+                "value": "视力残疾",
+                "label": "视力残疾"
+            }
+        ]
+    },
+    {
+        "value": 5.0,
+        "label": 5.0,
+        "children": [
+            {
+                "value": "畏光",
+                "label": "畏光"
+            },
+            {
+                "value": "充血",
+                "label": "充血"
+            },
+            {
+                "value": "目痛",
+                "label": "目痛"
+            },
+            {
+                "value": "眼睛瘙痒",
+                "label": "眼睛瘙痒"
+            },
+            {
+                "value": "眼肿",
+                "label": "眼肿"
+            },
+            {
+                "value": "眼有异物",
+                "label": "眼有异物"
+            },
+            {
+                "value": "频繁眨眼",
+                "label": "频繁眨眼"
+            },
+            {
+                "value": "重影",
+                "label": "重影"
+            },
+            {
+                "value": "闪光",
+                "label": "闪光"
+            },
+            {
+                "value": "眼睛酸胀",
+                "label": "眼睛酸胀"
+            },
+            {
+                "value": "眼睛疲劳",
+                "label": "眼睛疲劳"
+            },
+            {
+                "value": "眼睛受伤",
+                "label": "眼睛受伤"
+            },
+            {
+                "value": "流泪",
+                "label": "流泪"
+            }
+        ]
+    },
+    {
+        "value": 6.0,
+        "label": 6.0,
+        "children": [
+            {
+                "value": "眼部感染",
+                "label": "眼部感染"
+            },
+            {
+                "value": "黄斑病变",
+                "label": "黄斑病变"
+            },
+            {
+                "value": "眼压异常",
+                "label": "眼压异常"
+            },
+            {
+                "value": "视网膜病变",
+                "label": "视网膜病变"
+            },
+            {
+                "value": "泪道疾病",
+                "label": "泪道疾病"
+            },
+            {
+                "value": "玻璃体疾病",
+                "label": "玻璃体疾病"
+            },
+            {
+                "value": "视神经疾病",
+                "label": "视神经疾病"
+            }
+        ]
+    },
+    {
+        "value": 7.0,
+        "label": 7.0,
+        "children": [
+            {
+                "value": "视力模糊",
+                "label": "视力模糊"
+            },
+            {
+                "value": "视力异常",
+                "label": "视力异常"
+            },
+            {
+                "value": "眼部异常",
+                "label": "眼部异常"
+            },
+            {
+                "value": "眼整形美容",
+                "label": "眼整形美容"
+            },
+            {
+                "value": "无主题",
+                "label": "无主题"
+            }
+        ]
+    }
+]

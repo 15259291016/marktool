@@ -1,0 +1,202 @@
+[
+    {
+        "value": 1.0,
+        "label": 1.0,
+        "children": [
+            {
+                "value": "胃溃疡",
+                "label": "胃溃疡"
+            },
+            {
+                "value": "胃癌",
+                "label": "胃癌"
+            },
+            {
+                "value": "胃窦炎",
+                "label": "胃窦炎"
+            },
+            {
+                "value": "胃出血",
+                "label": "胃出血"
+            },
+            {
+                "value": "胃炎",
+                "label": "胃炎"
+            },
+            {
+                "value": "胃病",
+                "label": "胃病"
+            },
+            {
+                "value": "肠胃炎",
+                "label": "肠胃炎"
+            }
+        ]
+    },
+    {
+        "value": 2.0,
+        "label": 2.0,
+        "children": [
+            {
+                "value": "十二指肠溃疡",
+                "label": "十二指肠溃疡"
+            },
+            {
+                "value": "肠结核",
+                "label": "肠结核"
+            },
+            {
+                "value": "结肠炎",
+                "label": "结肠炎"
+            },
+            {
+                "value": "阑尾炎",
+                "label": "阑尾炎"
+            },
+            {
+                "value": "直肠炎",
+                "label": "直肠炎"
+            },
+            {
+                "value": "肠炎",
+                "label": "肠炎"
+            },
+            {
+                "value": "肠癌",
+                "label": "肠癌"
+            },
+            {
+                "value": "肠类疾病",
+                "label": "肠类疾病"
+            }
+        ]
+    },
+    {
+        "value": 3.0,
+        "label": 3.0,
+        "children": [
+            {
+                "value": "食道炎",
+                "label": "食道炎"
+            },
+            {
+                "value": "胰腺炎",
+                "label": "胰腺炎"
+            },
+            {
+                "value": "疝气",
+                "label": "疝气"
+            },
+            {
+                "value": "腹膜炎",
+                "label": "腹膜炎"
+            },
+            {
+                "value": "溃疡",
+                "label": "溃疡"
+            }
+        ]
+    },
+    {
+        "value": 4.0,
+        "label": 4.0,
+        "children": [
+            {
+                "value": "腹胀",
+                "label": "腹胀"
+            },
+            {
+                "value": "腹痛",
+                "label": "腹痛"
+            },
+            {
+                "value": "腹泻",
+                "label": "腹泻"
+            },
+            {
+                "value": "胃胀",
+                "label": "胃胀"
+            },
+            {
+                "value": "胃痛",
+                "label": "胃痛"
+            },
+            {
+                "value": "反胃",
+                "label": "反胃"
+            }
+        ]
+    },
+    {
+        "value": 5.0,
+        "label": 5.0,
+        "children": [
+            {
+                "value": "打嗝",
+                "label": "打嗝"
+            },
+            {
+                "value": "反酸",
+                "label": "反酸"
+            },
+            {
+                "value": "烧心",
+                "label": "烧心"
+            },
+            {
+                "value": "胆汁反流",
+                "label": "胆汁反流"
+            },
+            {
+                "value": "息肉",
+                "label": "息肉"
+            },
+            {
+                "value": "口苦",
+                "label": "口苦"
+            },
+            {
+                "value": "口臭",
+                "label": "口臭"
+            }
+        ]
+    },
+    {
+        "value": 6.0,
+        "label": 6.0,
+        "children": [
+            {
+                "value": "便秘",
+                "label": "便秘"
+            },
+            {
+                "value": "便血",
+                "label": "便血"
+            },
+            {
+                "value": "大便形态异常",
+                "label": "大便形态异常"
+            },
+            {
+                "value": "大便颜色异常",
+                "label": "大便颜色异常"
+            },
+            {
+                "value": "胃镜",
+                "label": "胃镜"
+            },
+            {
+                "value": "肠镜",
+                "label": "肠镜"
+            },
+            {
+                "value": "肛肠镜",
+                "label": "肛肠镜"
+            },
+            {
+                "value": "无主题",
+                "label": "无主题"
+            }
+        ]
+    }
+]

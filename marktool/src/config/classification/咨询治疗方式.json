@@ -1,0 +1,34 @@
+{
+    "label_categories": [
+        {
+            "text": "咨询治疗方式",
+            "describe": "",
+            "example": ""
+        },
+        {
+            "text": "咨询仪器",
+            "describe": "",
+            "example": ""
+        },
+        {
+            "text": "咨询材料",
+            "describe": "",
+            "example": ""
+        },
+        {
+            "text": "咨询手术方式",
+            "describe": "",
+            "example": ""
+        },
+        {
+            "text": "其他",
+            "describe": "",
+            "example": ""
+        },
+        {
+            "text": "无",
+            "describe": "",
+            "example": ""
+        }
+    ]
+}

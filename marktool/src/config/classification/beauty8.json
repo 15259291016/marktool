@@ -1,0 +1,33 @@
+{
+	"label_categories": [{
+		"text": "咨询公立私立",
+		"describe": "",
+		"example": ""
+	},
+	{
+		"text": "咨询公司介绍",
+		"describe": "",
+		"example": ""
+	},
+	{
+		"text": "咨询优势",
+		"describe": "",
+		"example": ""
+	},
+	{
+		"text": "描述症状",
+		"describe": "",
+		"example": ""
+	},
+	{
+		"text": "描述就诊史",
+		"describe": "",
+		"example": ""
+	},
+	{
+		"text": "其他",
+		"describe": "",
+		"example": ""
+	}
+	]
+}

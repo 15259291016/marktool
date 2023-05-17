@@ -1,0 +1,21 @@
+{
+    "价格": "price",
+    "时间": "datetime",
+    "部位器官": "part",
+    "异常症状": "symptom",
+    "疾病": "item",
+    "病因": "cause",
+    "细菌病毒": "virus",
+    "仪器材料": "tool",
+    "检查": "check",
+    "手术": "surgery",
+    "药物": "medicine",
+    "其它治疗方式": "othertreatment",
+    "地址": "address",
+    "生理现象": "physiology",
+    "情绪": "emotion",
+    "频率": "frequency",
+    "体液": "fluid",
+    "年龄": "age",
+    "姓名": "name"
+}

@@ -1,0 +1,228 @@
+{
+	"label_categories": {
+		"A": [
+			{
+				"text": "咨询公司介绍",
+				"describe": "",
+				"example": "",
+				"color": "color-B"
+			},
+			{
+				"text": "咨询上班时间",
+				"describe": "",
+				"example": "",
+				"color": "color-B"
+			},
+			{
+				"text": "咨询公立私立",
+				"describe": "",
+				"example": "",
+				"color": "color-B"
+			},
+			{
+				"text": "咨询地址",
+				"describe": "",
+				"example": "",
+				"color": "color-B"
+			},
+			{
+				"text": "咨询路线",
+				"describe": "",
+				"example": "",
+				"color": "color-B"
+			},
+			{
+				"text": "咨询电话",
+				"describe": "",
+				"example": "",
+				"color": "color-B"
+			},
+			{
+				"text": "咨询微信",
+				"describe": "",
+				"example": "",
+				"color": "color-B"
+			},
+			{
+				"text": "咨询QQ",
+				"describe": "",
+				"example": "",
+				"color": "color-B"
+			},
+			{
+				"text": "确定联系意愿",
+				"describe": "",
+				"example": "",
+				"color": "color-B"
+			},
+			{
+				"text": "咨询项目介绍",
+				"describe": "",
+				"example": "",
+				"color": "color-B"
+			},
+			{
+				"text": "咨询专家",
+				"describe": "",
+				"example": "",
+				"color": "color-B"
+			},
+			{
+				"text": "咨询价格",
+				"describe": "",
+				"example": "",
+				"color": "color-B"
+			},
+			{
+				"text": "咨询支付方式",
+				"describe": "",
+				"example": "",
+				"color": "color-B"
+			},			
+			{
+				"text": "咨询病因",
+				"describe": "",
+				"example": "",
+				"color": "color-B"
+			},
+			{
+				"text": "咨询副作用",
+				"describe": "",
+				"example": "",
+				"color": "color-B"
+			},
+			{
+				"text": "咨询恢复期",
+				"describe": "",
+				"example": "",
+				"color": "color-B"
+			},
+			{
+				"text": "咨询传染",
+				"describe": "",
+				"example": "",
+				"color": "color-B"
+			},
+			{
+				"text": "咨询危害",
+				"describe": "",
+				"example": "",
+				"color": "color-B"
+			},
+			{
+				"text": "咨询治疗方式",
+				"describe": "",
+				"example": "",
+				"color": "color-B"
+			},
+			{
+				"text": "咨询疗效",
+				"describe": "",
+				"example": "",
+				"color": "color-B"
+			},
+			{
+				"text": "咨询食疗",
+				"describe": "",
+				"example": "",
+				"color": "color-B"
+			},
+			{
+				"text": "咨询检查方式",
+				"describe": "",
+				"example": "",
+				"color": "color-B"
+			},
+			{
+				"text": "咨询检查价格",
+				"describe": "",
+				"example": "",
+				"color": "color-B"
+			},
+			{
+				"text": "咨询检查时长",
+				"describe": "",
+				"example": "",
+				"color": "color-B"
+			},
+			{
+				"text": "咨询注意事项",
+				"describe": "",
+				"example": "",
+				"color": "color-B"
+			},
+			{
+				"text": "描述症状",
+				"describe": "",
+				"example": "",
+				"color": "color-B"
+			},
+			{
+				"text": "描述生理现象",
+				"describe": "",
+				"example": "",
+				"color": "color-B"
+			},
+			{
+				"text": "描述就诊史",
+				"describe": "",
+				"example": "",
+				"color": "color-B"
+			},
+			{
+				"text": "咨询优惠活动",
+				"describe": "",
+				"example": "",
+				"color": "color-B"
+			},
+			{
+				"text": "咨询药物",
+				"describe": "",
+				"example": "",
+				"color": "color-B"
+			},
+			{
+				"text": "咨询疼痛程度",
+				"describe": "",
+				"example": "",
+				"color": "color-B"
+			},
+			{
+				"text": "咨询住院",
+				"describe": "",
+				"example": "",
+				"color": "color-B"
+			},
+			{
+				"text": "咨询疗程",
+				"describe": "",
+				"example": "",
+				"color": "color-B"
+			},
+			{
+				"text": "咨询留疤",
+				"describe": "",
+				"example": "",
+				"color": "color-B"
+			},
+			{
+				"text": "咨询遗传",
+				"describe": "",
+				"example": "",
+				"color": "color-B"
+			},
+			{
+				"text": "咨询麻醉",
+				"describe": "",
+				"example": "",
+				"color": "color-B"
+			},
+			{
+				"text": "无",
+				"describe": "",
+				"example": "",
+				"color": "color-B"
+			}
+		]
+	}
+}

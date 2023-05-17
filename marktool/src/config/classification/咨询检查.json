@@ -1,0 +1,34 @@
+{
+    "label_categories": [{
+            "text": "描述就诊史",
+            "describe": "",
+            "example": ""
+        },
+        {
+            "text": "咨询检查时长",
+            "describe": "",
+            "example": ""
+        },
+        {
+            "text": "咨询检查方式",
+            "describe": "",
+            "example": ""
+        },
+        {
+            "text": "咨询检查费用",
+            "describe": "",
+            "example": ""
+        },
+        {
+            "text": "其他",
+            "describe": "",
+            "example": ""
+        },
+        {
+            "text": "无",
+            "describe": "",
+            "example": ""
+        }
+        
+    ]
+}

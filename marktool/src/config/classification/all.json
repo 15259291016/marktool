@@ -1,0 +1,131 @@
+{
+  "label_categories": {
+    "A": [
+      {
+        "text": "描述就诊史病史",
+        "describe": "",
+        "example": ""
+      },
+      {
+        "text": "描述症状",
+        "describe": "",
+        "example": ""
+      },
+      {
+        "text": "确定预约时间",
+        "describe": "",
+        "example": ""
+      },
+      {
+        "text": "无",
+        "describe": "",
+        "example": ""
+      },
+      {
+        "text": "咨询/描述细菌病毒",
+        "describe": "",
+        "example": ""
+      },
+      {
+        "text": "咨询病因",
+        "describe": "",
+        "example": ""
+      },
+      {
+        "text": "咨询材料仪器治疗方法",
+        "describe": "",
+        "example": ""
+      },
+      {
+        "text": "咨询地址",
+        "describe": "",
+        "example": ""
+      },
+      {
+        "text": "咨询二次消费",
+        "describe": "",
+        "example": ""
+      },
+      {
+        "text": "咨询副作用",
+        "describe": "",
+        "example": ""
+      },
+      {
+        "text": "咨询后果",
+        "describe": "",
+        "example": ""
+      },
+      {
+        "text": "咨询价格",
+        "describe": "",
+        "example": ""
+      },
+      {
+        "text": "咨询检查",
+        "describe": "",
+        "example": ""
+      },
+      {
+        "text": "咨询联系方式",
+        "describe": "",
+        "example": ""
+      },
+      {
+        "text": "咨询疗程疗效",
+        "describe": "",
+        "example": ""
+      },
+      {
+        "text": "咨询路线",
+        "describe": "",
+        "example": ""
+      },
+      {
+        "text": "咨询描述情绪",
+        "describe": "",
+        "example": ""
+      },
+      {
+        "text": "咨询食疗",
+        "describe": "",
+        "example": ""
+      },
+      {
+        "text": "咨询手术",
+        "describe": "",
+        "example": ""
+      },
+      {
+        "text": "咨询项目",
+        "describe": "",
+        "example": ""
+      },
+      {
+        "text": "咨询药物",
+        "describe": "",
+        "example": ""
+      },
+      {
+        "text": "咨询医院级别",
+        "describe": "",
+        "example": ""
+      },
+      {
+        "text": "咨询优惠活动",
+        "describe": "",
+        "example": ""
+      },
+      {
+        "text": "咨询支付方式",
+        "describe": "",
+        "example": ""
+      },
+      {
+        "text": "咨询专家",
+        "describe": "",
+        "example": ""
+      }
+    ]
+  }
+}

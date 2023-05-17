@@ -1,0 +1,33 @@
+{
+	"label_categories": [{
+		"text": "咨询不住院",
+		"describe": "",
+		"example": ""
+	},
+	{
+		"text": "咨询住院",
+		"describe": "",
+		"example": ""
+	},
+	{
+		"text": "咨询区别",
+		"describe": "",
+		"example": ""
+	},
+	{
+		"text": "咨询专家",
+		"describe": "",
+		"example": ""
+	},
+	{
+		"text": "咨询疼痛程度",
+		"describe": "",
+		"example": ""
+	},
+	{
+		"text": "其他",
+		"describe": "",
+		"example": ""
+	}
+	]
+}

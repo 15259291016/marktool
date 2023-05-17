@@ -1,0 +1,19 @@
+{
+    "label_categories": [
+        {
+            "text": "咨询维持时间",
+            "describe": "",
+            "example": ""
+        },
+        {
+            "text": "其他",
+            "describe": "",
+            "example": ""
+        },
+        {
+            "text": "无",
+            "describe": "",
+            "example": ""
+        }
+    ]
+}

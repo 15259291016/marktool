@@ -1,0 +1,39 @@
+{
+    "label_categories": [
+        {
+            "text": "咨询麻药",
+            "describe": "",
+            "example": ""
+        },
+        {
+            "text": "咨询二次消费",
+            "describe": "",
+            "example": ""
+        },
+        {
+            "text": "咨询药物",
+            "describe": "",
+            "example": ""
+        },
+        {
+            "text": "咨询专家",
+            "describe": "",
+            "example": ""
+        },
+        {
+            "text": "咨询项目",
+            "describe": "",
+            "example": ""
+        },
+        {
+            "text": "其他",
+            "describe": "",
+            "example": ""
+        },
+        {
+            "text": "无",
+            "describe": "",
+            "example": ""
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "label_categories": [
+        {
+            "text": "咨询遗传",
+            "describe": "",
+            "example": ""
+        },
+        {
+            "text": "咨询疗效",
+            "describe": "",
+            "example": ""
+        },
+        {
+            "text": "描述症状",
+            "describe": "",
+            "example": ""
+        },
+        {
+            "text": "咨询危害",
+            "describe": "",
+            "example": ""
+        },
+        {
+            "text": "咨询副作用",
+            "describe": "",
+            "example": ""
+        },
+        {
+            "text": "其他",
+            "describe": "",
+            "example": ""
+        },
+        {
+            "text": "无",
+            "describe": "",
+            "example": ""
+        }
+    ]
+}

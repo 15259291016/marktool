@@ -1,0 +1,23 @@
+{
+	"label_categories": [{
+		"text": "咨询宜吃食物",
+		"describe": "",
+		"example": ""
+	},{
+		"text": "咨询忌口食物",
+		"describe": "",
+		"example": ""
+	},{
+		"text": "咨询药物",
+		"describe": "",
+		"example": ""
+	}, {
+		"text": "无",
+		"describe": "",
+		"example": ""
+	}, {
+		"text": "其他",
+		"describe": "",
+		"example": ""
+	}]
+}

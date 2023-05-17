@@ -1,0 +1,38 @@
+{
+	"label_categories": [{
+		"text": "咨询优惠活动",
+		"describe": "",
+		"example": ""
+	},
+	{
+		"text": "咨询支付方式",
+		"describe": "",
+		"example": ""
+	},
+	{
+		"text": "咨询贵不贵",
+		"describe": "",
+		"example": ""
+	},
+	{
+		"text": "咨询二次消费",
+		"describe": "",
+		"example": ""
+	},
+	{
+		"text": "咨询价格",
+		"describe": "",
+		"example": ""
+	},
+	{
+		"text": "退款",
+		"describe": "",
+		"example": ""
+	},
+	{
+		"text": "其他",
+		"describe": "",
+		"example": ""
+	}
+	]
+}

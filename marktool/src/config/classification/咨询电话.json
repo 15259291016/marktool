@@ -1,0 +1,29 @@
+{
+	"label_categories": [
+		{
+			"text": "咨询QQ",
+			"describe": "",
+			"example": ""
+		},
+		{
+			"text": "咨询电话",
+			"describe": "",
+			"example": ""
+		},
+		{
+			"text": "咨询微信",
+			"describe": "",
+			"example": ""
+		},
+		{
+			"text": "其他",
+			"describe": "",
+			"example": ""
+		},
+		{
+			"text": "无",
+			"describe": "",
+			"example": ""
+		}
+	]
+}

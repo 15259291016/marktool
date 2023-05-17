@@ -1,0 +1,16 @@
+[
+    {
+        "value": 1.0,
+        "label": 1.0,
+        "children": [
+            {
+                "value": "有效",
+                "label": "有效"
+            },
+            {
+                "value": "无效",
+                "label": "无效"
+            }
+        ]
+    }
+]

@@ -1,0 +1,43 @@
+{
+	"label_categories": [{
+		"text": "咨询治疗时长",
+		"describe": "",
+		"example": ""
+	},
+	{
+		"text": "咨询恢复期",
+		"describe": "",
+		"example": ""
+	},
+	{
+		"text": "咨询疗程",
+		"describe": "",
+		"example": ""
+	},
+	{
+		"text": "咨询维持时间",
+		"describe": "",
+		"example": ""
+	},
+	{
+		"text": "咨询成功案例",
+		"describe": "",
+		"example": ""
+	},
+	{
+		"text": "咨询成功率",
+		"describe": "",
+		"example": ""
+	},
+	{
+		"text": "咨询疗效",
+		"describe": "",
+		"example": ""
+	},
+	{
+		"text": "其他",
+		"describe": "",
+		"example": ""
+	}
+	]
+}

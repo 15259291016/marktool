@@ -1,0 +1,222 @@
+[
+    {
+        "value": 1.0,
+        "label": 1.0,
+        "children": [
+            {
+                "value": "外痔",
+                "label": "外痔"
+            },
+            {
+                "value": "内痔",
+                "label": "内痔"
+            },
+            {
+                "value": "混合痔",
+                "label": "混合痔"
+            },
+            {
+                "value": "痔疮",
+                "label": "痔疮"
+            },
+            {
+                "value": "肛门息肉",
+                "label": "肛门息肉"
+            }
+        ]
+    },
+    {
+        "value": 2.0,
+        "label": 2.0,
+        "children": [
+            {
+                "value": "结肠炎",
+                "label": "结肠炎"
+            },
+            {
+                "value": "直肠炎",
+                "label": "直肠炎"
+            },
+            {
+                "value": "肠炎",
+                "label": "肠炎"
+            },
+            {
+                "value": "肠息肉",
+                "label": "肠息肉"
+            },
+            {
+                "value": "肠癌",
+                "label": "肠癌"
+            },
+            {
+                "value": "肠粘连",
+                "label": "肠粘连"
+            },
+            {
+                "value": "肠胀气",
+                "label": "肠胀气"
+            },
+            {
+                "value": "肠类疾病",
+                "label": "肠类疾病"
+            },
+            {
+                "value": "肠胃炎",
+                "label": "肠胃炎"
+            },
+            {
+                "value": "肛窦炎",
+                "label": "肛窦炎"
+            },
+            {
+                "value": "肠溃烂",
+                "label": "肠溃烂"
+            }
+        ]
+    },
+    {
+        "value": 3.0,
+        "label": 3.0,
+        "children": [
+            {
+                "value": "肛门溃疡",
+                "label": "肛门溃疡"
+            },
+            {
+                "value": "肛裂",
+                "label": "肛裂"
+            },
+            {
+                "value": "肛瘘",
+                "label": "肛瘘"
+            },
+            {
+                "value": "肛乳头肥大",
+                "label": "肛乳头肥大"
+            },
+            {
+                "value": "脱肛",
+                "label": "脱肛"
+            }
+        ]
+    },
+    {
+        "value": 4.0,
+        "label": 4.0,
+        "children": [
+            {
+                "value": "肛门湿疣",
+                "label": "肛门湿疣"
+            },
+            {
+                "value": "肛门癣",
+                "label": "肛门癣"
+            },
+            {
+                "value": "肛门湿疹",
+                "label": "肛门湿疹"
+            }
+        ]
+    },
+    {
+        "value": 5.0,
+        "label": 5.0,
+        "children": [
+            {
+                "value": "胃炎",
+                "label": "胃炎"
+            },
+            {
+                "value": "胃病",
+                "label": "胃病"
+            },
+            {
+                "value": "便血",
+                "label": "便血"
+            },
+            {
+                "value": "便秘",
+                "label": "便秘"
+            }
+        ]
+    },
+    {
+        "value": 6.0,
+        "label": 6.0,
+        "children": [
+            {
+                "value": "肛门疼痛",
+                "label": "肛门疼痛"
+            },
+            {
+                "value": "肛周红肿",
+                "label": "肛周红肿"
+            },
+            {
+                "value": "肛门坠胀",
+                "label": "肛门坠胀"
+            },
+            {
+                "value": "肛门瘙痒",
+                "label": "肛门瘙痒"
+            },
+            {
+                "value": "肛门潮湿",
+                "label": "肛门潮湿"
+            },
+            {
+                "value": "肛类疾病",
+                "label": "肛类疾病"
+            }
+        ]
+    },
+    {
+        "value": 7.0,
+        "label": 7.0,
+        "children": [
+            {
+                "value": "腹痛",
+                "label": "腹痛"
+            },
+            {
+                "value": "腹泻",
+                "label": "腹泻"
+            },
+            {
+                "value": "肚胀",
+                "label": "肚胀"
+            },
+            {
+                "value": "大便形态异常",
+                "label": "大便形态异常"
+            },
+            {
+                "value": "大便颜色异常",
+                "label": "大便颜色异常"
+            }
+        ]
+    },
+    {
+        "value": 8.0,
+        "label": 8.0,
+        "children": [
+            {
+                "value": "肛门镜",
+                "label": "肛门镜"
+            },
+            {
+                "value": "肠镜",
+                "label": "肠镜"
+            },
+            {
+                "value": "胃镜",
+                "label": "胃镜"
+            },
+            {
+                "value": "无主题",
+                "label": "无主题"
+            }
+        ]
+    }
+]

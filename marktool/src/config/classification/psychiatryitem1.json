@@ -1,0 +1,110 @@
+[
+    {
+        "value": 1.0,
+        "label": 1.0,
+        "children": [
+            {
+                "value": "焦虑症",
+                "label": "焦虑症"
+            },
+            {
+                "value": "恐惧症",
+                "label": "恐惧症"
+            },
+            {
+                "value": "强迫症",
+                "label": "强迫症"
+            },
+            {
+                "value": "妄想症",
+                "label": "妄想症"
+            },
+            {
+                "value": "失眠症",
+                "label": "失眠症"
+            }
+        ]
+    },
+    {
+        "value": 2.0,
+        "label": 2.0,
+        "children": [
+            {
+                "value": "神经衰弱",
+                "label": "神经衰弱"
+            },
+            {
+                "value": "植物神经功能紊乱",
+                "label": "植物神经功能紊乱"
+            },
+            {
+                "value": "自闭症",
+                "label": "自闭症"
+            },
+            {
+                "value": "抑郁症",
+                "label": "抑郁症"
+            },
+            {
+                "value": "躁狂症",
+                "label": "躁狂症"
+            }
+        ]
+    },
+    {
+        "value": 3.0,
+        "label": 3.0,
+        "children": [
+            {
+                "value": "双相情感障碍",
+                "label": "双相情感障碍"
+            },
+            {
+                "value": "精神分裂症",
+                "label": "精神分裂症"
+            },
+            {
+                "value": "癔症",
+                "label": "癔症"
+            },
+            {
+                "value": "精神障碍",
+                "label": "精神障碍"
+            },
+            {
+                "value": "神经官能症",
+                "label": "神经官能症"
+            },
+            {
+                "value": "自杀",
+                "label": "自杀"
+            }
+        ]
+    },
+    {
+        "value": 4.0,
+        "label": 4.0,
+        "children": [
+            {
+                "value": "戒酒",
+                "label": "戒酒"
+            },
+            {
+                "value": "戒赌",
+                "label": "戒赌"
+            },
+            {
+                "value": "戒网瘾",
+                "label": "戒网瘾"
+            },
+            {
+                "value": "神经性头痛",
+                "label": "神经性头痛"
+            },
+            {
+                "value": "无主题",
+                "label": "无主题"
+            }
+        ]
+    }
+]

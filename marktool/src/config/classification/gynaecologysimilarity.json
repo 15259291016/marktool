@@ -1,0 +1,16 @@
+[
+    {
+        "value": "相似句",
+        "label": "相似句",
+        "children": [
+            {
+                "value": 0,
+                "label": 0
+            },
+            {
+                "value": 1,
+                "label": 1
+            }
+        ]
+    }
+]

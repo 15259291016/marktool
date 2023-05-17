@@ -1,0 +1,24 @@
+{
+    "label_categories": [
+        {
+            "text": "描述症状",
+            "describe": "",
+            "example": ""
+        },
+        {
+            "text": "咨询恢复期",
+            "describe": "",
+            "example": ""
+        },
+        {
+            "text": "其他",
+            "describe": "",
+            "example": ""
+        },
+        {
+            "text": "无",
+            "describe": "",
+            "example": ""
+        }
+    ]
+}

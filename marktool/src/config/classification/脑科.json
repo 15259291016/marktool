@@ -1,0 +1,134 @@
+{
+  "label_categories": [
+    {
+      "text": "无需标注",
+      "describe": "",
+      "example": ""
+    },
+    {
+      "text": "描述症状",
+      "describe": "",
+      "example": ""
+    },
+    {
+      "text": "咨询病因",
+      "describe": "",
+      "example": ""
+    },
+    {
+      "text": "咨询医保",
+      "describe": "",
+      "example": ""
+    },
+    {
+      "text": "宜吃食物",
+      "describe": "",
+      "example": ""
+    },
+    {
+      "text": "忌口食物",
+      "describe": "",
+      "example": ""
+    },
+    {
+      "text": "咨询住院",
+      "describe": "",
+      "example": ""
+    },
+    {
+      "text": "咨询术前",
+      "describe": "",
+      "example": ""
+    },
+    {
+      "text": "咨询术后",
+      "describe": "",
+      "example": ""
+    },
+    {
+      "text": "咨询项目",
+      "describe": "",
+      "example": ""
+    },
+    {
+      "text": "咨询恢复期",
+      "describe": "",
+      "example": ""
+    },
+    {
+      "text": "确定预约时间",
+      "describe": "",
+      "example": ""
+    },
+    {
+      "text": "咨询地址",
+      "describe": "",
+      "example": ""
+    },
+    {
+      "text": "咨询仪器",
+      "describe": "",
+      "example": ""
+    },
+    {
+      "text": "咨询专家",
+      "describe": "",
+      "example": ""
+    },
+    {
+      "text": "咨询药物",
+      "describe": "",
+      "example": ""
+    },
+    {
+      "text": "咨询价格",
+      "describe": "",
+      "example": ""
+    },
+    {
+      "text": "咨询治疗方式",
+      "describe": "",
+      "example": ""
+    },
+    {
+      "text": "咨询联系方式",
+      "describe": "",
+      "example": ""
+    },
+    {
+      "text": "咨询检查",
+      "describe": "",
+      "example": ""
+    },
+    {
+      "text": "描述就诊史病史",
+      "describe": "",
+      "example": ""
+    },
+    {
+      "text": "咨询能否治好",
+      "describe": "",
+      "example": ""
+    },
+    {
+      "text": "咨询遗传",
+      "describe": "",
+      "example": ""
+    },
+    {
+      "text": "咨询疗程",
+      "describe": "",
+      "example": ""
+    },
+    {
+      "text": "咨询疗效",
+      "describe": "",
+      "example": ""
+    },
+    {
+      "text": "咨询后果",
+      "describe": "",
+      "example": ""
+    }
+  ]
+}

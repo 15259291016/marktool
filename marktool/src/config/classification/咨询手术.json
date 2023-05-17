@@ -1,0 +1,29 @@
+{
+    "label_categories": [
+        {
+            "text": "咨询手术方式",
+            "describe": "",
+            "example": ""
+        },
+        {
+            "text": "咨询动刀",
+            "describe": "",
+            "example": ""
+        },
+        {
+            "text": "咨询手术时长",
+            "describe": "",
+            "example": ""
+        },
+        {
+            "text": "其他",
+            "describe": "",
+            "example": ""
+        },
+        {
+            "text": "无",
+            "describe": "",
+            "example": ""
+        }
+    ]
+}
